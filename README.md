@@ -1,6 +1,4 @@
 #  OULAD ML Platform  
- Platformă Machine Learning pentru analiza performanței studenților
-
 
 
 ##  Descriere
