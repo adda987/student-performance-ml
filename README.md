@@ -1,7 +1,6 @@
 #  OULAD ML Platform  
 ###  Platformă Machine Learning pentru analiza performanței studenților
 
----
 
 ##  Descriere
 
@@ -77,13 +76,6 @@ streamlit run Home.py
 
 ---
 
-##  Scopul proiectului
-
-Acest proiect a fost realizat în cadrul lucrării de licență:
-
-> **„Predicția performanței academice a studenților utilizând metode de Machine Learning și Learning Analytics”**
-
----
 
 ##  Tehnologii utilizate
 
@@ -92,6 +84,7 @@ Acest proiect a fost realizat în cadrul lucrării de licență:
 * Scikit-learn
 * Pandas / NumPy
 * Plotly / Altair / Matplotlib
+
 
 
 
