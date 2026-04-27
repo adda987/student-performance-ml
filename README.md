@@ -1,20 +1,23 @@
-```markdown
+````markdown
 #  OULAD ML Platform  
-### Platformă de Machine Learning pentru analiza performanței studenților
+###  Platformă de Machine Learning pentru analiza performanței studenților
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-orange)
-![Status](https://img.shields.io/badge/Status-Finalizat-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Finalizat-brightgreen?style=for-the-badge"/>
+</p>
 
 ---
 
 ##  Descriere
 
-Acest proiect reprezintă o **platformă interactivă de Machine Learning** dezvoltată pentru analiza și predicția performanței studenților, utilizând  
-**Open University Learning Analytics Dataset (OULAD)**.
+Acest proiect reprezintă o **platformă interactivă de Machine Learning** dezvoltată pentru analiza și predicția performanței studenților, utilizând:
 
-Aplicația integrează:
+>  **Open University Learning Analytics Dataset (OULAD)**
+
+###  Aplicația integrează:
 -  preprocesare completă a datelor  
 -  modele de regresie  
 -  modele de clasificare  
@@ -40,10 +43,10 @@ Aplicația integrează:
 - KNN Classifier
 
 ---
+
 ##  Structura proiectului
 
-```
-
+```bash
 oulad-ml-platform/
 │
 ├── Home.py
@@ -59,26 +62,26 @@ oulad-ml-platform/
 │   ├── 5_SVR.py
 │   ├── 7_RF_Classifier.py
 │   └── ...
-
 ````
 
 ---
 
-## Instalare și rulare
+##  Instalare și rulare
 
 ```bash
 git clone https://github.com/USERNAME/oulad-ml-platform.git
 cd oulad-ml-platform
 pip install -r requirements.txt
 streamlit run Home.py
-````
+```
 
+---
 
 ##  Set de date
 
-* Sursă: **OULAD (Open University Learning Analytics Dataset)**
-* Număr studenți: ~32.000
-* Variabile: demografice, activitate, performanță academică
+*  Sursă: **OULAD (Open University Learning Analytics Dataset)**
+*  Număr studenți: ~32.000
+*  Variabile: demografice, activitate, performanță academică
 
 ---
 
@@ -86,7 +89,7 @@ streamlit run Home.py
 
 Acest proiect a fost realizat în cadrul lucrării de licență:
 
-> „Predicția performanței academice a studenților utilizând metode de Machine Learning și Learning Analytics”
+> **„Predicția performanței academice a studenților utilizând metode de Machine Learning și Learning Analytics”**
 
 ---
 
@@ -98,7 +101,7 @@ Acest proiect a fost realizat în cadrul lucrării de licență:
 * Pandas / NumPy
 * Plotly / Altair / Matplotlib
 
----
+
 
 **Andreea S.**
 Informatică Economică — ASE București
