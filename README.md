@@ -1,4 +1,3 @@
-````markdown
 #  OULAD ML Platform  
 ###  Platformă de Machine Learning pentru analiza performanței studenților
 
