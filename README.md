@@ -1,12 +1,5 @@
 #  OULAD ML Platform  
-###  Platformă de Machine Learning pentru analiza performanței studenților
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Finalizat-brightgreen?style=for-the-badge"/>
-</p>
+###  Platformă Machine Learning pentru analiza performanței studenților
 
 ---
 
@@ -103,4 +96,5 @@ Acest proiect a fost realizat în cadrul lucrării de licență:
 
 
 **Andreea S.**
+
 Informatică Economică — ASE București
